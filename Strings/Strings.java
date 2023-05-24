@@ -29,7 +29,7 @@ for(int i =0; i <fullname.length(); i++)
 
 
 
- compare 
+// compare 
 
 System.out.println("Example on CompareTo()");
 String team = "India";
