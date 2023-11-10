@@ -84,11 +84,11 @@
 // System.out.println(line); // here we use starting index and .length method
 // System.out.println("acess word : "+ word);
 // System.out.println(line1); // here we give only starting index 
-
-
-
+//
+//
+//
 // */
-
+//
 //}
 //}
 //}                                                                               
